@@ -2,10 +2,10 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. (K H Arjun) [https://github.com/ArjunKH2004]
-2. (Anas N) [https://github.com/anexxer]
-3. (Arjun Subhash Kumar) [https://github.com/Arjunwhatever]
-4. (Allen MT Maliyil) [https://github.com/DarkWolfHunter007]
+1. [K H Arjun] (https://github.com/ArjunKH2004)
+2. [Anas N] (https://github.com/anexxer)
+3. [Arjun Subhash Kumar] (https://github.com/Arjunwhatever)
+4. [Allen MT Maliyil] (https://github.com/DarkWolfHunter007)
 ## Team Id
 rookie-techies
 ## Link to product walkthrough
